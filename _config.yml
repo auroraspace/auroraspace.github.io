@@ -1,22 +1,23 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://auroraspace.github.io
+baseurl:
+
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Aurora Space Projects
+email: auroraspace@gmail.com
+description: "Aurora Space Projects. We are a company specialized in small satellites projects and flight software development."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
-  secondary-dark: 333
+  primary: 182B3A
+  secondary: 3A827E
+  secondary-dark: 1C3F55
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Carlos González
+  pic: cgonzalez
+  position: Co-Founder
   social:
     - title: twitter
       url: #
@@ -25,9 +26,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
+- name: Tomás Opazo
+  pic: topazo
+  position: Co-Founder
   social:
     - title: twitter
       url: #
@@ -36,9 +37,42 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Alex Becerra
+  pic: abecera
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Felipe Troncoso
+  pic: ftroncoso
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Camilo Rojas
+  pic: crojas
+  position: Co-Founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Sebastian Derteano
+  pic: sderteano
+  position: Co-Founder
   social:
     - title: twitter
       url: #
@@ -50,20 +84,16 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://twitter.com/auroraspaceproj
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/auroraspace
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Santiago
+  - line: Chile
 
 # Build settings
 markdown: kramdown
