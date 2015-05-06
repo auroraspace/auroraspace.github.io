@@ -1,15 +1,14 @@
 ---
-title: Escape
-subtitle: Website Design
+title: SUCHAI 2
+subtitle: 3U Cubesat designed for science
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: suchai2.jpg
+thumbnail: suchai2-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: Starting in 2015
+client: In collaboration with the University of Chile.
+category: satellite
+description: This 3U Cubesat is the second satellite project developed in the University of Chile.
 ---

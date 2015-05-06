@@ -38,7 +38,7 @@ people:
       url: #
 
 - name: Alex Becerra
-  pic: abecera
+  pic: abecerra
   position: Co-Founder
   social:
     - title: twitter
@@ -86,7 +86,7 @@ social:
   - title: twitter
     url: https://twitter.com/auroraspaceproj
   - title: facebook
-    url:
+    url: #
   - title: github
     url: http://github.com/auroraspace
 
