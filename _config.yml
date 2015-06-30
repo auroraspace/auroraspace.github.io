@@ -21,10 +21,10 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://cl.linkedin.com/in/carlosgonzalezcortes/en
+    - title: github
+      url: https://github.com/carlgonz
 
 - name: Tomás Opazo
   pic: topazo
@@ -32,10 +32,10 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/pub/tomas-opazo/58/a1b/670/en
+    - title: github
+      url: https://github.com/toopazo
 
 - name: Alex Becerra
   pic: abecerra
@@ -43,21 +43,10 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Felipe Troncoso
-  pic: ftroncoso
-  position: Co-Founder
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/pub/alex-becerra-saavedra/68/372/189/en
+    - title: github
+      url: https://github.com/alexbecerra
 
 - name: Camilo Rojas
   pic: crojas
@@ -65,20 +54,9 @@ people:
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
-
-- name: Sebastian Derteano
-  pic: sderteano
-  position: Co-Founder
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+      url: https://www.linkedin.com/pub/camilo-rojas-milla/32/48/166/en
+    - title: github
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
