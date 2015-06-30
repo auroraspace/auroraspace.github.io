@@ -1,14 +1,14 @@
 ---
-title: AuroraSat
-subtitle: Aurora standard Cubesat platform
+title: Aurora Flight Software
+subtitle: Flight Software for small satellites
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: aurorasat.jpg
-thumbnail: aurorasat-thumbnail.jpg
+img: flightsoftware.jpg
+thumbnail: flightsoftware-thumbnail.jpg
 alt: image-alt
 project-date: Coming soon.
 client:
-category: satellite
-description: A 3U Cubesat platform including on board computer, flight software, communications and energy systems.
+category: software
+description: Highly modular, reusable and modifiable flight software.
 ---
