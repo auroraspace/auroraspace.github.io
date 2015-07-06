@@ -1,11 +1,11 @@
-url: https://auroraspace.github.io
+url: https://auroraspace.cl
 baseurl:
 
 
 # Site settings
 title: Aurora Space Projects
-email: auroraspace@gmail.com
-description: "Aurora Space Projects. We are a company specialized in small satellites projects and flight software development."
+email: inf@auroraspace.cl
+description: "Aurora Space Projects. We are a company specilist in cubesat projects."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -20,7 +20,7 @@ people:
   position: Co-Founder
   social:
     - title: twitter
-      url: #
+      url:
     - title: linkedin
       url: https://cl.linkedin.com/in/carlosgonzalezcortes/en
     - title: github
@@ -31,7 +31,7 @@ people:
   position: Co-Founder
   social:
     - title: twitter
-      url: #
+      url:
     - title: linkedin
       url: https://www.linkedin.com/pub/tomas-opazo/58/a1b/670/en
     - title: github
@@ -42,7 +42,7 @@ people:
   position: Co-Founder
   social:
     - title: twitter
-      url: #
+      url:
     - title: linkedin
       url: https://www.linkedin.com/pub/alex-becerra-saavedra/68/372/189/en
     - title: github
