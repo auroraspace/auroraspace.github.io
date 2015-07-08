@@ -1,6 +1,6 @@
 ---
 title: SUCHAI
-subtitle: First chilean cubesat
+subtitle: First chilean cubesat project
 layout: default
 modal-id: 1
 date: 2014-07-18

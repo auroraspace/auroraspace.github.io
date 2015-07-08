@@ -12,10 +12,17 @@ body {
 
 .text-muted {
     color: #777;
+    font-size: 16px;
+}
+
+.text-disabled {
+    color: #909090;
+    font-size: 16px;
 }
 
 .text-primary {
     color: #{{ site.color.primary }};
+    font-size: 16px;
 }
 
 p {
@@ -335,7 +342,7 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
