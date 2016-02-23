@@ -9,9 +9,9 @@ description: "Aurora Space Projects. We are a company specilist in cubesat proje
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 182B3A
-  secondary: 3A827E
-  secondary-dark: 1C3F55
+  primary: 25475c
+  secondary: 3dd485
+  secondary-dark: 3f8582
 
 # Team names, titles and social links
 people:
