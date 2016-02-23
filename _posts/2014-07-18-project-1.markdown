@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2011-2015
 client: In collaboration with the University of Chile
 category: satellite
-description: SUCHAI is the first chilean Cubesat developed by undergraduate students, engineers and professors of the University of Chile. It is a 1U Cubesat whit educational and scientific purposes.
+description: SUCHAI is the first chilean Cubesat developed by undergraduate students, engineers and professors of the University of Chile. It is a 1U Cubesat with educational and scientific purposes.
 
 ---

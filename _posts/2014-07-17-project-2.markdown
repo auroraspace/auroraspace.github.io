@@ -1,5 +1,5 @@
 ---
-title: SUCHAI 2
+title: SUCHAI 2 & 3
 subtitle: 3U cubesat for science and education
 layout: default
 modal-id: 2
@@ -8,7 +8,7 @@ img: suchai2.jpg
 thumbnail: suchai2-thumbnail.jpg
 alt: image-alt
 project-date: Starting in 2015
-client: In collaboration with the University of Chile.
+client: In collaboration with University of Chile.
 category: satellite
-description: This 3U Cubesat is the second satellite project developed in the University of Chile.
+description: This 3U Cubesat is the second satellite project developed at the University of Chile.
 ---
