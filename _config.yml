@@ -5,6 +5,7 @@ baseurl:
 title: Aurora Space
 description: "Aurora Space. We are a company specialist in nanosatellite projects."
 email: inf@auroraspace.cl
+image: /img/logos/aurora.png
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
