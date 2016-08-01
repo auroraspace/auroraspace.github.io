@@ -2,17 +2,17 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	
 	<!-- Open Graph -->
-    <meta property="og:title" content="Aurora Space" />
-    <meta property="og:description" content="Aurora Sapce" />
-    <meta property="og:url" content="http://www.auroraspace.cl" />
-    <meta property="og:image" content="http://www.auroraspace.cl/img/icons/android-chrome-192x192.png" />
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:image" content=" {{site.image }}" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="Aurora Sapce" />
 
     <!-- Favicon (http://realfavicongenerator.net)-->
     <link rel="apple-touch-icon" sizes="57x57" href="/img/icons/apple-touch-icon-57x57.png">

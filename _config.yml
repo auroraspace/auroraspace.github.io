@@ -1,11 +1,10 @@
-url: https://auroraspace.cl
+# Site settings
+url: https://www.auroraspace.cl
 baseurl:
 
-
-# Site settings
-title: Aurora Space Projects
+title: Aurora Space
+description: "Aurora Space. We are a company specialist in nanosatellite projects."
 email: inf@auroraspace.cl
-description: "Aurora Space Projects. We are a company specilist in cubesat projects."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
