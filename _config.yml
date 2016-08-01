@@ -17,7 +17,7 @@ color:
 people:
 - name: Carlos González
   pic: cgonzalez
-  position: Co-Founder
+  position: CSO
   social:
     - title: twitter
       url: https://twitter.com/cegonzalezspace
@@ -28,7 +28,7 @@ people:
 
 - name: Tomás Opazo
   pic: topazo
-  position: Co-Founder
+  position: COO
   social:
     - title: twitter
       url:
@@ -39,7 +39,7 @@ people:
 
 - name: Alex Becerra
   pic: abecerra
-  position: Co-Founder
+  position: CEO
   social:
     - title: twitter
       url:
@@ -50,7 +50,7 @@ people:
 
 - name: Camilo Rojas
   pic: crojas
-  position: Co-Founder
+  position: CTO
   social:
     - title: twitter
       url: https://twitter.com/crojasmilla
@@ -58,6 +58,17 @@ people:
       url: https://www.linkedin.com/pub/camilo-rojas-milla/32/48/166/en
     - title: github
       url: https://github.com/keimi
+      
+- name: Francisco Anguita
+  pic: fanguita
+  position: CFO
+  social:
+    - title: twitter
+      url: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/francisco-anguita-91127a5/es
+    - title: github
+      url: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -65,6 +76,8 @@ social:
     url: https://twitter.com/auroraspaceproj
   - title: linkedin
     url: https://www.linkedin.com/company/aurora-space/
+  - title: facebook
+    url: https://www.facebook.com/auroraspace/
   - title: github
     url: http://github.com/auroraspace
 
