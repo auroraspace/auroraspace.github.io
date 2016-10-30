@@ -7,8 +7,9 @@ date: 2014-07-17
 img: suchai2.jpg
 thumbnail: suchai2-thumbnail.jpg
 alt: image-alt
-project-date: Starting in 2015
+link: http://spel.ing.uchile.cl
+project-date: 2016
 client: In collaboration with University of Chile.
-category: satellite
+category: Nanosatellite
 description: This 3U Cubesat is the second satellite project developed at the University of Chile.
 ---

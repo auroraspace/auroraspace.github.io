@@ -8,8 +8,9 @@ img: suchai.jpg
 thumbnail: suchai-thumbnail.jpg
 alt: image-alt
 project-date: 2011-2015
+link: http://spel.ing.uchile.cl
 client: In collaboration with the University of Chile
-category: satellite
+category: Nanosatellite
 description: SUCHAI is the first chilean Cubesat developed by undergraduate students, engineers and professors of the University of Chile. It is a 1U Cubesat with educational and scientific purposes.
 
 ---
