@@ -1,0 +1,16 @@
+---
+title: Ascending Memories
+subtitle: <a href="https://www.ascendingmemories.com">www.ascendingmemories.com</a>
+layout: default
+modal-id: 4
+date: 2016-10-28
+img: ascending.jpg
+thumbnail: ascending-thumbnail.jpg
+alt: image-alt
+link: https://www.ascendingmemories.com
+project-date: Book now!
+client: Ascending Memories
+category: Send ashes to space
+description:
+    Send the ashes of cremated loved ones to space and transform the whole planet into their resting place. Remember your beloved ones every time you look at the stars.every time you look at the stars. <h3>Follow us</h3> <table style="border-collapse:collapse;border-spacing:0;margin:0 auto"><tr><th><a href="https://www.facebook.com/ascendingmemories/"><img src=https://www.auroraspace.cl/img/ascending/fb.png alt="Ascending Memories Facebook" style="width:56px;height:56px;border:10"></a></th><th><a href="https://twitter.com/ascendingmemory"><img src=https://www.auroraspace.cl/img/ascending/tw.png alt="Ascending Memories Twitter" style="width:56px;height:56px;border:10"></a></th><th><a href="https://www.linkedin.com/company/ascending-memories/"><img src=https://www.auroraspace.cl/img/ascending/in.png alt="Ascending Memories Linkedin" style="width:56px;height:56px;border:10"></a></th></tr></table>
+---

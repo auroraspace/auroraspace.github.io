@@ -8,7 +8,8 @@ img: flightsoftware.jpg
 thumbnail: flightsoftware-thumbnail.jpg
 alt: image-alt
 project-date: Coming soon.
-client:
-category: software
+link:
+client: Aurora Space
+category: Software
 description: Highly modular, reusable and modifiable flight software.
 ---
