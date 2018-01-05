@@ -27,17 +27,6 @@ people:
     - title: github
       url: https://github.com/carlgonz
 
-- name: Tomás Opazo
-  pic: topazo
-  position: COO
-  social:
-    - title: twitter
-      url:
-    - title: linkedin
-      url: https://www.linkedin.com/pub/tomas-opazo/58/a1b/670/en
-    - title: github
-      url: https://github.com/toopazo
-
 - name: Alex Becerra
   pic: abecerra
   position: CEO
